@@ -1,0 +1,18 @@
+# Environment variables (API Keys)
+.env
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+
+# Streamlit config
+.streamlit/
+
+# OS specific files
+.DS_Store
+Thumbs.db
